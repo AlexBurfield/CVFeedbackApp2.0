@@ -1,0 +1,12 @@
+c:\users\francesc\documents\visual studio 2015\Projects\ReplyHelper\ReplyHelper\bin\Debug\ReplyHelper.exe.config
+c:\users\francesc\documents\visual studio 2015\Projects\ReplyHelper\ReplyHelper\bin\Debug\ReplyHelper.exe
+c:\users\francesc\documents\visual studio 2015\Projects\ReplyHelper\ReplyHelper\bin\Debug\ReplyHelper.pdb
+c:\users\francesc\documents\visual studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.csprojResolveAssemblyReference.cache
+c:\users\francesc\documents\visual studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.FirstMenuForm.resources
+c:\users\francesc\documents\visual studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.Properties.Resources.resources
+c:\users\francesc\documents\visual studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.csproj.GenerateResource.Cache
+c:\users\francesc\documents\visual studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.exe
+c:\users\francesc\documents\visual studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.pdb
+c:\users\francesc\documents\visual studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.CreateNewTemplateForm.resources
+C:\Users\Francesc\Documents\Visual Studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.EditTemplateForm.resources
+C:\Users\Francesc\Documents\Visual Studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.ReplyForm.resources
