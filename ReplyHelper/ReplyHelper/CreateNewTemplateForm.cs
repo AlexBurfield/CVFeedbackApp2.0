@@ -16,5 +16,27 @@ namespace ReplyHelper
         {
             InitializeComponent();
         }
+
+        private void SaveHeaderAndFooter_MouseClick(object sender, MouseEventArgs e)
+        {
+            this.Hide();
+            AddOptionSet Optionset1 = new AddOptionSet();
+            Optionset1.ShowDialog();
+
+        }
+
+        private void LoadTemplate_MouseClick(object sender, MouseEventArgs e)
+        {
+            this.Hide();
+            LoadForm newLoadForm = new LoadForm();
+            newLoadForm.ShowDialog();
+        }
+
+        private void PreviewCurrentTemplate_MouseClick(object sender, MouseEventArgs e)
+        {
+            this.Hide();
+            PreviewForm newPreviewForm = new PreviewForm();
+            newPreviewForm.ShowDialog();
+        }
     }
 }

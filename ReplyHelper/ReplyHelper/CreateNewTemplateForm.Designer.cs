@@ -79,15 +79,17 @@
             this.SaveHeaderAndFooter.TabIndex = 4;
             this.SaveHeaderAndFooter.Text = "Next >>";
             this.SaveHeaderAndFooter.UseVisualStyleBackColor = true;
+            this.SaveHeaderAndFooter.MouseClick += new System.Windows.Forms.MouseEventHandler(this.SaveHeaderAndFooter_MouseClick);
             // 
             // LoadTemplate
             // 
-            this.LoadTemplate.Location = new System.Drawing.Point(277, 578);
+            this.LoadTemplate.Location = new System.Drawing.Point(244, 578);
             this.LoadTemplate.Name = "LoadTemplate";
-            this.LoadTemplate.Size = new System.Drawing.Size(75, 23);
+            this.LoadTemplate.Size = new System.Drawing.Size(105, 23);
             this.LoadTemplate.TabIndex = 5;
             this.LoadTemplate.Text = "Load";
             this.LoadTemplate.UseVisualStyleBackColor = true;
+            this.LoadTemplate.MouseClick += new System.Windows.Forms.MouseEventHandler(this.LoadTemplate_MouseClick);
             // 
             // PreviewCurrentTemplate
             // 
@@ -97,6 +99,7 @@
             this.PreviewCurrentTemplate.TabIndex = 7;
             this.PreviewCurrentTemplate.Text = "Preview";
             this.PreviewCurrentTemplate.UseVisualStyleBackColor = true;
+            this.PreviewCurrentTemplate.MouseClick += new System.Windows.Forms.MouseEventHandler(this.PreviewCurrentTemplate_MouseClick);
             // 
             // CreateNewTemplateForm
             // 

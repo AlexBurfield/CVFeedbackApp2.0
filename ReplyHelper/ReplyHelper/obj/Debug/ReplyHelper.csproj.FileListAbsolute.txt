@@ -10,3 +10,6 @@ c:\users\francesc\documents\visual studio 2015\Projects\ReplyHelper\ReplyHelper\
 c:\users\francesc\documents\visual studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.CreateNewTemplateForm.resources
 C:\Users\Francesc\Documents\Visual Studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.EditTemplateForm.resources
 C:\Users\Francesc\Documents\Visual Studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.ReplyForm.resources
+C:\Users\Francesc\Documents\Visual Studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.AddOptionSet.resources
+C:\Users\Francesc\Documents\Visual Studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.LoadForm.resources
+C:\Users\Francesc\Documents\Visual Studio 2015\Projects\ReplyHelper\ReplyHelper\obj\Debug\ReplyHelper.PreviewForm.resources
